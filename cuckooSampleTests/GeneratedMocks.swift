@@ -4,7 +4,7 @@
 //  CuckooGenerator.swift
 //  cuckooSample
 //
-//  Created by 中村岳 on 2018/07/09.
+//  Created by gakuburugaku on 2018/07/09.
 //  Copyright © 2018年 example. All rights reser
 import Cuckoo
 @testable import cuckooSample
