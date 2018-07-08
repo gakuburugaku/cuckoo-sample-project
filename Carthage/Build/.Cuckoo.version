@@ -1,0 +1,13 @@
+{
+  "commitish" : "0.11.3",
+  "iOS" : [
+    {
+      "name" : "Cuckoo",
+      "hash" : "b2b19d9827c11f4b6229d79765bf3eda4736777df8d3e9c443af70275815ba0a"
+    },
+    {
+      "name" : "Cuckoo",
+      "hash" : "b2b19d9827c11f4b6229d79765bf3eda4736777df8d3e9c443af70275815ba0a"
+    }
+  ]
+}

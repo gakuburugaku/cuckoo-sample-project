@@ -1,0 +1,19 @@
+language: objective-c
+osx_image: xcode9
+xcode_project: Cuckoo.xcodeproj
+xcode_scheme: Cuckoo
+xcode_sdk: macosx
+
+before_script:
+    - gem install cucumber --no-rdoc --no-ri
+    - gem install aruba --no-rdoc --no-ri
+
+script:
+    - pushd Generator
+    - make test
+    - popd
+    - xcodebuild -project 'Cuckoo.xcodeproj' -scheme 'Cuckoo-macOS+Run' clean test | xcpretty
+    - pod lib lint
+
+after_script:
+    - sleep 5
