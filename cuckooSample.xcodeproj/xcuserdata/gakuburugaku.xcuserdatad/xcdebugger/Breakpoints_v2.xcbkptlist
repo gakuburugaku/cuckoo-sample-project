@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.6956199"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.695711"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.695769"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.69582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.695869"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.695914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cuckooSampleTests.CuckooSampleTests.testExample() -&gt; ()"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.58006"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (cuckooSampleTests.MockCuckooGenerator.__StubbingProxy_CuckooGenerator) -&gt; () in cuckooSampleTests.CuckooSampleTests.testExample() -&gt; ()"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.582442"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.695962"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.696007"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewModel"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.6960551"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "viewModel(_:shoudShowCuckooLabel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSample/ViewController.swift"
+            timestampString = "552931896.093857"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "jonButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.6961221"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "tearDown()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.696167"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "tearDown()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.69621"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CuckooSampleTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cuckooSampleTests.CuckooSampleTests.(angryExpectation in _08B1F4C7A4581E6F893402CC9E23D8A2).getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.XCTestExpectation&gt;"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.6140471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cuckooSampleTests.CuckooSampleTests.(angryExpectation in _08B1F4C7A4581E6F893402CC9E23D8A2).setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.XCTestExpectation&gt;"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.621237"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cuckooSampleTests.CuckooSampleTests.init(invocation: Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; cuckooSampleTests.CuckooSampleTests"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.631689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cuckooSampleTests.CuckooSampleTests.init(selector: ObjectiveC.Selector) -&gt; cuckooSampleTests.CuckooSampleTests"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.636844"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cuckooSampleTests.CuckooSampleTests.init() -&gt; cuckooSampleTests.CuckooSampleTests"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.641005"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.6962529"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "CuckooSampleTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cuckooSampleTests.CuckooSampleTests.init(invocation: Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; cuckooSampleTests.CuckooSampleTests"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.646759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cuckooSampleTests.CuckooSampleTests.init(selector: ObjectiveC.Selector) -&gt; cuckooSampleTests.CuckooSampleTests"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.649817"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cuckooSampleTests.CuckooSampleTests.init() -&gt; cuckooSampleTests.CuckooSampleTests"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.6527129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.696296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "viewModel(_:shoudShowAngryLabel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cuckooSampleTests.CuckooSampleTests.viewModel(cuckooSample.ViewModel, shoudShowAngryLabel: Swift.String) -&gt; ()"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.65812"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.String in cuckooSampleTests.CuckooSampleTests.viewModel(cuckooSample.ViewModel, shoudShowAngryLabel: Swift.String) -&gt; ()"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.660659"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 : @autoclosure () throws -&gt; Swift.String in cuckooSampleTests.CuckooSampleTests.viewModel(cuckooSample.ViewModel, shoudShowAngryLabel: Swift.String) -&gt; ()"
+                  moduleName = "cuckooSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nakamuragaku/Documents/project/ios/cuckooSample/cuckooSampleTests/CuckooSampleTests.swift"
+                  timestampString = "552932122.6637779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSampleTests/CuckooSampleTests.swift"
+            timestampString = "552932121.6963381"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "viewModel(_:shoudShowJoyLabel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cuckooSample/ViewModel.swift"
+            timestampString = "552932121.696384"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "tapAngryButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

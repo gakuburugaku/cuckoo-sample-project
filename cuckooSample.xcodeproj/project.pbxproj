@@ -12,12 +12,12 @@
 		AD6357F420F26A7100508B58 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD6357F220F26A7100508B58 /* Main.storyboard */; };
 		AD6357F620F26A7200508B58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD6357F520F26A7200508B58 /* Assets.xcassets */; };
 		AD6357F920F26A7200508B58 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD6357F720F26A7200508B58 /* LaunchScreen.storyboard */; };
-		AD63580420F26A7200508B58 /* cuckooSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63580320F26A7200508B58 /* cuckooSampleTests.swift */; };
+		AD63580420F26A7200508B58 /* CuckooSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63580320F26A7200508B58 /* CuckooSampleTests.swift */; };
 		AD63580F20F26A7200508B58 /* cuckooSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63580E20F26A7200508B58 /* cuckooSampleUITests.swift */; };
 		AD63582220F26C3F00508B58 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63582120F26C3F00508B58 /* ViewModel.swift */; };
 		AD63582820F27C4400508B58 /* CuckooGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63582720F27C4400508B58 /* CuckooGenerator.swift */; };
 		AD63582A20F280E900508B58 /* GeneratedMocks.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD63582920F280E900508B58 /* GeneratedMocks.swift */; };
-		AD63590A20F2849600508B58 /* Cuckoo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD6358F820F2844F00508B58 /* Cuckoo.framework */; };
+		DCDB747320F512FB00C34134 /* Cuckoo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD63581D20F26B3200508B58 /* Cuckoo.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,7 +74,7 @@
 		AD6357F820F26A7200508B58 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD6357FA20F26A7200508B58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD6357FF20F26A7200508B58 /* cuckooSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cuckooSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		AD63580320F26A7200508B58 /* cuckooSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cuckooSampleTests.swift; sourceTree = "<group>"; };
+		AD63580320F26A7200508B58 /* CuckooSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CuckooSampleTests.swift; sourceTree = "<group>"; };
 		AD63580520F26A7200508B58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD63580A20F26A7200508B58 /* cuckooSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cuckooSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD63580E20F26A7200508B58 /* cuckooSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cuckooSampleUITests.swift; sourceTree = "<group>"; };
@@ -256,7 +256,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD63590A20F2849600508B58 /* Cuckoo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +263,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCDB747320F512FB00C34134 /* Cuckoo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -317,7 +317,7 @@
 			isa = PBXGroup;
 			children = (
 				AD63582920F280E900508B58 /* GeneratedMocks.swift */,
-				AD63580320F26A7200508B58 /* cuckooSampleTests.swift */,
+				AD63580320F26A7200508B58 /* CuckooSampleTests.swift */,
 				AD63580520F26A7200508B58 /* Info.plist */,
 			);
 			path = cuckooSampleTests;
@@ -1027,7 +1027,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD63580420F26A7200508B58 /* cuckooSampleTests.swift in Sources */,
+				AD63580420F26A7200508B58 /* CuckooSampleTests.swift in Sources */,
 				AD63582A20F280E900508B58 /* GeneratedMocks.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1253,6 +1253,11 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/Carthage/Build/iOS";
 				INFOPLIST_FILE = cuckooSampleTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1273,6 +1278,11 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/Carthage/Build/iOS";
 				INFOPLIST_FILE = cuckooSampleTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

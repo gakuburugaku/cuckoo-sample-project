@@ -1,11 +1,12 @@
-// MARK: - Mocks generated from file: cuckooSample/CuckooGenerator.swift at 2018-07-08 17:41:36 +0000
+// MARK: - Mocks generated from file: cuckooSample/CuckooGenerator.swift at 2018-07-10 16:14:56 +0000
 
 //
 //  CuckooGenerator.swift
 //  cuckooSample
 //
 //  Created by gakuburugaku on 2018/07/09.
-//  Copyright © 2018年 example. All rights reser
+//  Copyright © 2018年 example. All rights reserved.
+
 import Cuckoo
 @testable import cuckooSample
 
@@ -22,7 +23,7 @@ class MockCuckooGenerator: CuckooGenerator, Cuckoo.ClassMock {
     
 
     
-    // ["name": "generate", "returnSignature": " -> String", "fullyQualifiedName": "generate(_: String, type: CuckooType) -> String", "parameterSignature": "_ source: String, type: CuckooType", "parameterSignatureWithoutNames": "source: String, type: CuckooType", "inputTypes": "String, CuckooType", "isThrowing": false, "isInit": false, "isOverriding": true, "hasClosureParams": false, "@type": "ClassMethod", "accessibility": "", "parameterNames": "source, type", "call": "source, type: type", "parameters": [CuckooGeneratorFramework.MethodParameter(label: nil, name: "source", type: "String", range: CountableRange(325..<341), nameRange: CountableRange(0..<0)), CuckooGeneratorFramework.MethodParameter(label: Optional("type"), name: "type", type: "CuckooType", range: CountableRange(343..<359), nameRange: CountableRange(343..<347))], "returnType": "String", "isOptional": false, "stubFunction": "Cuckoo.ClassStubFunction"]
+    // ["name": "generate", "returnSignature": " -> String", "fullyQualifiedName": "generate(_: String, type: CuckooType) -> String", "parameterSignature": "_ source: String, type: CuckooType", "parameterSignatureWithoutNames": "source: String, type: CuckooType", "inputTypes": "String, CuckooType", "isThrowing": false, "isInit": false, "isOverriding": true, "hasClosureParams": false, "@type": "ClassMethod", "accessibility": "", "parameterNames": "source, type", "call": "source, type: type", "parameters": [CuckooGeneratorFramework.MethodParameter(label: nil, name: "source", type: "String", range: CountableRange(328..<344), nameRange: CountableRange(0..<0)), CuckooGeneratorFramework.MethodParameter(label: Optional("type"), name: "type", type: "CuckooType", range: CountableRange(346..<362), nameRange: CountableRange(346..<350))], "returnType": "String", "isOptional": false, "stubFunction": "Cuckoo.ClassStubFunction"]
      override func generate(_ source: String, type: CuckooType)  -> String {
         
             return cuckoo_manager.call("generate(_: String, type: CuckooType) -> String",
@@ -87,7 +88,7 @@ class MockCuckooGenerator: CuckooGenerator, Cuckoo.ClassMock {
 }
 
 
-// MARK: - Mocks generated from file: cuckooSample/ViewModel.swift at 2018-07-08 17:41:36 +0000
+// MARK: - Mocks generated from file: cuckooSample/ViewModel.swift at 2018-07-10 16:14:56 +0000
 
 //
 //  ViewModel.swift
