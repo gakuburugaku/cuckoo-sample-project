@@ -1,4 +1,4 @@
-// MARK: - Mocks generated from file: cuckooSample/CuckooGenerator.swift at 2018-07-10 16:14:56 +0000
+// MARK: - Mocks generated from file: cuckooSample/CuckooGenerator.swift at 2018-07-11 15:28:58 +0000
 
 //
 //  CuckooGenerator.swift
@@ -88,7 +88,7 @@ class MockCuckooGenerator: CuckooGenerator, Cuckoo.ClassMock {
 }
 
 
-// MARK: - Mocks generated from file: cuckooSample/ViewModel.swift at 2018-07-10 16:14:56 +0000
+// MARK: - Mocks generated from file: cuckooSample/ViewModel.swift at 2018-07-11 15:28:58 +0000
 
 //
 //  ViewModel.swift
